@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>בדיקה - דניאל מלא</title>
+    <link>https://ygolan.org/</link>
+    <language>he</language>
+    <description>שני פרקי דניאל המלאים לבדיקת האזנה.</description>
+    <copyright>ההקלטות: ישיבת הגולן</copyright>
+    <itunes:author>ישיבת הגולן - הרב מוטי פרנקו</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://s3.castbox.fm/1e/f7/3d/1eadad4194a349e0889e365f48.jpg" />
+    <item>
+      <title>01. דניאל פרק ח (מלא)</title>
+      <description>דניאל פרק ח - ההקלטה המלאה.</description>
+      <guid isPermaLink="false">daniel-test-08-5b8fb57a-0493-4223-bc68-b876b79cf891</guid>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://nakh-daniel-08-full.99helpers.site/" type="audio/mpeg" length="9914826" />
+    </item>
+    <item>
+      <title>02. דניאל פרק ט (מלא)</title>
+      <description>דניאל פרק ט - ההקלטה המלאה.</description>
+      <guid isPermaLink="false">daniel-test-09-d7d3c16d-23c1-49a3-86ad-c0de78d68602</guid>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:11:58</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://nakh-daniel-09-full.99helpers.site/" type="audio/mpeg" length="11481755" />
+    </item>
+  </channel>
+</rss>
