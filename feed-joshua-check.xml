@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>בדיקה 2 - יהושע ג וח</title>
+    <link>https://ygolan.org/</link>
+    <description>בדיקת משך מלא ליהושע ג וח</description>
+    <language>he</language>
+    <item>
+      <title>003. יהושע פרק ג</title>
+      <description>  &lt;p&gt;עד שתסיים את הקפה, הפרק ייגמר...&lt;/p&gt;&lt;p&gt;אינדקס הקלטות של כל פרקי הנ"ך בשבע עד עשר דקות ללימוד יומי&lt;/p&gt;&lt;p&gt;מאת הרב מוטי פרנקו, ר"מ&lt;/p&gt;&lt;p&gt;&amp;nbsp;בישיבת הגולן&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href="https://broken-crown-8268.glideapp.io/" rel="noopener noreferrer" target="_blank"&gt;https://broken-crown-8268.glideapp.io/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;הלימוד מוקדש לע"נ תלמיד הישיבה ינון ירון בן אברהם&lt;/p&gt;  
+
+המספור והתאריך ברשימה זו נקבעו לצורך סדר ההאזנה בלבד.</description>
+      <guid isPermaLink="false">joshua-repaired-check-892ace2e-af90-4044-a482-60327a85df1d</guid>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:06:29</itunes:duration>
+      <enclosure url="https://github.com/instinct-nakh-rss/nakh-feed/releases/download/joshua-fix/nakh-joshua-03-full.mp3" type="audio/mpeg" length="1937349" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>008. יהושע פרק ח</title>
+      <description>  &lt;p&gt;עד שתסיים את הקפה, הפרק ייגמר...&lt;/p&gt;&lt;p&gt;אינדקס הקלטות של כל פרקי הנ"ך בשבע עד עשר דקות ללימוד יומי&lt;/p&gt;&lt;p&gt;מאת הרב מוטי פרנקו, ר"מ&lt;/p&gt;&lt;p&gt;&amp;nbsp;בישיבת הגולן&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href="https://broken-crown-8268.glideapp.io/" rel="noopener noreferrer" target="_blank"&gt;https://broken-crown-8268.glideapp.io/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;הלימוד מוקדש לע"נ תלמיד הישיבה ינון ירון בן אברהם&lt;/p&gt;  
+
+המספור והתאריך ברשימה זו נקבעו לצורך סדר ההאזנה בלבד.</description>
+      <guid isPermaLink="false">joshua-repaired-check-b5235571-311c-4a89-b665-86fa105e7812</guid>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:duration>00:10:38</itunes:duration>
+      <enclosure url="https://github.com/instinct-nakh-rss/nakh-feed/releases/download/joshua-fix/nakh-joshua-08-full.mp3" type="audio/mpeg" length="3292773" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
