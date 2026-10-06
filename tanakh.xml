@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{%- capture assembled -%}{% include finalpart00.xml %}{% include finalpart01.xml %}{% include finalpart02.xml %}{% include finalpart03.xml %}{% include finalpart04.xml %}{% include finalpart05.xml %}{% include finalpart06.xml %}{% include finalpart07.xml %}{% include finalpart08.xml %}{% include finalpart09.xml %}{% include finalpart10.xml %}{% include finalpart11.xml %}{% include finalpart12.xml %}{% include finalpart13.xml %}{% include finalpart14.xml %}{% include finalpart15.xml %}{% include finalpart16.xml %}{% include finalpart17.xml %}{% include finalpart18.xml %}{% include finalpart19.xml %}{% include finalpart20.xml %}{% include finalpart21.xml %}{% include finalpart22.xml %}{% include finalpart23.xml %}{%- endcapture -%}{%- assign sz = assembled.size | minus: 1 -%}{{- assembled | slice: 0, sz -}}
