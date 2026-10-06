@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{%- capture assembled -%}{% include _includes/part00.xml %}{% include part01.xml %}{% include part02.xml %}{% include part03.xml %}{% include part04.xml %}{% include part05.xml %}{% include part06.xml %}{% include part07.xml %}{% include part08.xml %}{% include part09.xml %}{% include part10.xml %}{% include part11.xml %}{% include part12.xml %}{% include part13.xml %}{% include part14.xml %}{% include part15.xml %}{% include part16.xml %}{% include part17.xml %}{% include part18.xml %}{% include part19.xml %}{% include part20.xml %}{% include part21.xml %}{% include part22.xml %}{% include part23.xml %}{%- endcapture -%}{%- assign byte_equivalent_length = assembled.size | minus: 1 -%}{{- assembled | slice: 0, byte_equivalent_length -}}
