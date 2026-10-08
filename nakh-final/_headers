@@ -1,0 +1,6 @@
+/feed.xml
+  Content-Type: application/rss+xml; charset=UTF-8
+  Cache-Control: public, max-age=300
+  Access-Control-Allow-Origin: *
+/
+  Content-Type: application/rss+xml; charset=UTF-8
